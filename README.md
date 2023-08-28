@@ -1,5 +1,5 @@
 # Basics
-
+Patrick Johnson's repo
 echo " Update: $(date)" >> README.md
 
 Scrum standup
